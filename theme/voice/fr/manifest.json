@@ -1,0 +1,110 @@
+{
+  "en-garde": {
+    "text": "En garde !",
+    "file": "en-garde.mp3",
+    "moment": "Intro",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "round-un": {
+    "text": "Round un…",
+    "file": "round-un.mp3",
+    "moment": "Intro",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "combattez": {
+    "text": "Combattez !",
+    "file": "combattez.mp3",
+    "moment": "Intro",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "touche": {
+    "text": "Touché !",
+    "file": "touche.mp3",
+    "moment": "Capture",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "allez": {
+    "text": "Allez !",
+    "file": "allez.mp3",
+    "moment": "Capture",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "quel-coup": {
+    "text": "Quel coup !",
+    "file": "quel-coup.mp3",
+    "moment": "Capture (big/combo)",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "sacre-bleu": {
+    "text": "Sacré bleu !",
+    "file": "sacre-bleu.mp3",
+    "moment": "Queen capture",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "la-reine-tombe": {
+    "text": "La reine tombe !",
+    "file": "la-reine-tombe.mp3",
+    "moment": "Queen capture",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "merde": {
+    "text": "Merde !",
+    "file": "merde.mp3",
+    "moment": "Blunder (optional, drop for a family audience)",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "echec": {
+    "text": "Échec !",
+    "file": "echec.mp3",
+    "moment": "Check",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "attention": {
+    "text": "Attention, Majesté !",
+    "file": "attention.mp3",
+    "moment": "Check",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "retournement": {
+    "text": "Retournement !",
+    "file": "retournement.mp3",
+    "moment": "Big eval swing",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "ko": {
+    "text": "K.O. !",
+    "file": "ko.mp3",
+    "moment": "Checkmate",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "echec-et-mat": {
+    "text": "Échec et mat !",
+    "file": "echec-et-mat.mp3",
+    "moment": "Checkmate",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "match-nul": {
+    "text": "Match nul…",
+    "file": "match-nul.mp3",
+    "moment": "Draw",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "egalite": {
+    "text": "Égalité parfaite !",
+    "file": "egalite.mp3",
+    "moment": "Draw",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "victoire": {
+    "text": "Victoire !",
+    "file": "victoire.mp3",
+    "moment": "Victory",
+    "voice": "fr-FR-HenriNeural"
+  },
+  "parfait": {
+    "text": "Parfait !",
+    "file": "parfait.mp3",
+    "moment": "Victory (no pieces lost)",
+    "voice": "fr-FR-HenriNeural"
+  }
+}

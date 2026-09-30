@@ -1,0 +1,9 @@
+{
+  "_readme": "Capture cutscenes. Key = <attacker><victim> using piece letters K Q R B N P, optionally prefixed with attacker colour w/b. Lookup order: wNxP, NxP, xP, default. src is relative to this folder; .webm/.mp4 play as video, anything else renders as an image (animated WebP/GIF/APNG). ms = how long the popup stays and autoplay waits. Entries set to null fall back to the built-in fight.",
+  "default": null,
+  "xP": null,
+  "xQ": null,
+  "NxP": null,
+  "BxQ": null,
+  "BxP": null
+}
